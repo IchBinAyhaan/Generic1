@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590FC97C-D184-47D4-A159-362517D7C4BB}|Course\\Course.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\course\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590FC97C-D184-47D4-A159-362517D7C4BB}|Course\\Course.csproj|solutionrelative:course\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590FC97C-D184-47D4-A159-362517D7C4BB}|Course\\Course.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590FC97C-D184-47D4-A159-362517D7C4BB}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590FC97C-D184-47D4-A159-362517D7C4BB}|Course\\Course.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\course\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590FC97C-D184-47D4-A159-362517D7C4BB}|Course\\Course.csproj|solutionrelative:course\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6F161B-1465-4226-8E9E-C1FF020A1F26}|Group\\Group.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\group\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6F161B-1465-4226-8E9E-C1FF020A1F26}|Group\\Group.csproj|solutionrelative:group\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6F161B-1465-4226-8E9E-C1FF020A1F26}|Group\\Group.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\group\\groupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6F161B-1465-4226-8E9E-C1FF020A1F26}|Group\\Group.csproj|solutionrelative:group\\groupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6F161B-1465-4226-8E9E-C1FF020A1F26}|Group\\Group.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\group\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6F161B-1465-4226-8E9E-C1FF020A1F26}|Group\\Group.csproj|solutionrelative:group\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{152DB034-6231-4123-A7C8-EDA3A9A008B6}|Generic\\Number.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{152DB034-6231-4123-A7C8-EDA3A9A008B6}|Generic\\Number.csproj|solutionrelative:generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3EA156-D727-4CD8-B71B-C1EFEC1B11AA}|Shop\\Shop.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\shop\\idrinkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3EA156-D727-4CD8-B71B-C1EFEC1B11AA}|Shop\\Shop.csproj|solutionrelative:shop\\idrinkshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3EA156-D727-4CD8-B71B-C1EFEC1B11AA}|Shop\\Shop.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\shop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3EA156-D727-4CD8-B71B-C1EFEC1B11AA}|Shop\\Shop.csproj|solutionrelative:shop\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3EA156-D727-4CD8-B71B-C1EFEC1B11AA}|Shop\\Shop.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3EA156-D727-4CD8-B71B-C1EFEC1B11AA}|Shop\\Shop.csproj|solutionrelative:shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3EA156-D727-4CD8-B71B-C1EFEC1B11AA}|Shop\\Shop.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\shop\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3EA156-D727-4CD8-B71B-C1EFEC1B11AA}|Shop\\Shop.csproj|solutionrelative:shop\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3EA156-D727-4CD8-B71B-C1EFEC1B11AA}|Shop\\Shop.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\shop\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3EA156-D727-4CD8-B71B-C1EFEC1B11AA}|Shop\\Shop.csproj|solutionrelative:shop\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E841D9-C03F-4B63-966D-5766AA28455B}|Custom\\Custom.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\custom\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E841D9-C03F-4B63-966D-5766AA28455B}|Custom\\Custom.csproj|solutionrelative:custom\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E841D9-C03F-4B63-966D-5766AA28455B}|Custom\\Custom.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\custom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E841D9-C03F-4B63-966D-5766AA28455B}|Custom\\Custom.csproj|solutionrelative:custom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3EA156-D727-4CD8-B71B-C1EFEC1B11AA}|Shop\\Shop.csproj|c:\\users\\darya\\desktop\\ayhan1.11\\generic\\shop\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3EA156-D727-4CD8-B71B-C1EFEC1B11AA}|Shop\\Shop.csproj|solutionrelative:shop\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Course\\Course.cs",
+              "RelativeDocumentMoniker": "Course\\Course.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Course\\Course.cs",
+              "RelativeToolTip": "Course\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:10:37.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Course\\Program.cs",
+              "RelativeToolTip": "Course\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:10:33.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Course\\Student.cs",
+              "RelativeDocumentMoniker": "Course\\Student.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Course\\Student.cs",
+              "RelativeToolTip": "Course\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:10:32.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Group\\Group.cs",
+              "RelativeDocumentMoniker": "Group\\Group.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Group\\Group.cs",
+              "RelativeToolTip": "Group\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:10:28.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupManager.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Group\\GroupManager.cs",
+              "RelativeDocumentMoniker": "Group\\GroupManager.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Group\\GroupManager.cs",
+              "RelativeToolTip": "Group\\GroupManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:10:24.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Group\\Program.cs",
+              "RelativeDocumentMoniker": "Group\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Group\\Program.cs",
+              "RelativeToolTip": "Group\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:10:23.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Generic\\Program.cs",
+              "RelativeDocumentMoniker": "Generic\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Generic\\Program.cs",
+              "RelativeToolTip": "Generic\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:10:18.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Custom\\CustomList.cs",
+              "RelativeDocumentMoniker": "Custom\\CustomList.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Custom\\CustomList.cs",
+              "RelativeToolTip": "Custom\\CustomList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:09:15.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Custom\\Program.cs",
+              "RelativeDocumentMoniker": "Custom\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Custom\\Program.cs",
+              "RelativeToolTip": "Custom\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T04:08:39.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDrinkShop.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Shop\\IDrinkShop.cs",
+              "RelativeDocumentMoniker": "Shop\\IDrinkShop.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Shop\\IDrinkShop.cs",
+              "RelativeToolTip": "Shop\\IDrinkShop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:17:33.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Shop\\Product.cs",
+              "RelativeDocumentMoniker": "Shop\\Product.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Shop\\Product.cs",
+              "RelativeToolTip": "Shop\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:09:23.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Shop\\Coffee.cs",
+              "RelativeDocumentMoniker": "Shop\\Coffee.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Shop\\Coffee.cs",
+              "RelativeToolTip": "Shop\\Coffee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:08:50.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Tea.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Shop\\Tea.cs",
+              "RelativeDocumentMoniker": "Shop\\Tea.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Shop\\Tea.cs",
+              "RelativeToolTip": "Shop\\Tea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:08:35.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Shop\\Shop.cs",
+              "RelativeDocumentMoniker": "Shop\\Shop.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Shop\\Shop.cs",
+              "RelativeToolTip": "Shop\\Shop.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:08:27.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\Darya\\Desktop\\Ayhan1.11\\Generic\\Shop\\Program.cs",
+              "RelativeToolTip": "Shop\\Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAgwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:08:05.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
